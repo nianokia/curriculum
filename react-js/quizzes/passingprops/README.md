@@ -1,4 +1,6 @@
-Weekly Quiz - Understanding Passing Props. 
+# Weekly Quiz - Understanding Passing Props. 
+
+## Nia Wright - Quiz completed 10.16.2024
 
 Congratulations! You are working on your first ticket. Your task here is to document the code needed for onboarding the next SWE. The code is working correctly, so you don't need to fix anything, but your manager wants you to: 
 
